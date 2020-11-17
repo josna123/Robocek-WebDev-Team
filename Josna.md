@@ -6,11 +6,11 @@ Follow the below steps to contribute
 
     Fork the repo.
 
-- ### Your Name
+- ### JOSNA T P
 
 ```
-Batch and Branch:
-Github Id:
+Batch and Branch:2K19 CSE
+Github Id:josna123
 
 ```
 
