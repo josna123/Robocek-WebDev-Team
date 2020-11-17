@@ -14,8 +14,8 @@ Github Id:
 
 ```
 
-    Copy the above format and paste it to the bottom of the Readme.md file.
+Copy the above format and paste it into a new file with our name in folder **team** as yourname.md
 
-    Provide your details.
+Provide your details.
 
-    Commit your changes and create pull request.
+Commit your changes and create pull request.
