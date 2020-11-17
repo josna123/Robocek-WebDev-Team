@@ -9,9 +9,8 @@ Follow the below steps to contribute
 - ### Your Name
 
 ```
-Email Id:
+Batch and Branch:
 Github Id:
-Contact Number:
 
 ```
 
