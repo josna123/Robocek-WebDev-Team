@@ -9,7 +9,6 @@ Follow the below steps to contribute
 ```
 Email Id:
 Github Id:
-Contact Number:
 
 ```
 
